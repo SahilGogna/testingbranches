@@ -4,6 +4,7 @@ print('water')
 print('Fire')
 print('Ice')
 print('Earth')
+print('GOD')
 
 while True:
     print('Enter a name: (blank to quit)')
