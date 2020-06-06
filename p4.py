@@ -2,6 +2,7 @@ birthdays = {'Sahil':'July 1', 'Aastha':'Nov 6'}
 
 print('water')
 print('Fire')
+print('Ice')
 
 while True:
     print('Enter a name: (blank to quit)')
